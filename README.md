@@ -1,5 +1,5 @@
 # awesome-awesome-eos
-List of awesome EOS lists
+Curated list of curated lists of EOS
 
 
 https://github.com/EOS-Nation/Awesome-EOS
